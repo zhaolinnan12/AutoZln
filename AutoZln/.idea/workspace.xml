@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="990e4242-41c1-4832-9952-584c438e303e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h2G4UfM4aRhokNOEBNPPFVf1DF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Enum" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javawork\AutoZln\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javawork\AutoZln\src\main\java\Enum" />
+      <recent name="D:\javawork\AutoZln\src\main\java\Core\Interface" />
+      <recent name="D:\javawork\AutoZln\src\main\java\Core" />
+      <recent name="D:\javawork\AutoZln\src\test\resources" />
+      <recent name="D:\javawork\AutoZln\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TDemo">
+    <configuration name="TDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.TDemo" />
+      <module name="AutoZln" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaseDemo1" type="TestNG" nameIsGenerated="true">
+      <module name="AutoZln" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCase" />
+      <option name="MAIN_CLASS_NAME" value="testCase.CaseDemo1" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaseDemo1.GetMessag" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoZln" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase" />
+      <option name="MAIN_CLASS_NAME" value="testCase.CaseDemo1" />
+      <option name="METHOD_NAME" value="GetMessag" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaseDemo2$GlmapperGeneric.specifyType" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoZln" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase" />
+      <option name="MAIN_CLASS_NAME" value="testCase.CaseDemo2$GlmapperGeneric" />
+      <option name="METHOD_NAME" value="specifyType" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuiGuangTaskTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoZln" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase" />
+      <option name="MAIN_CLASS_NAME" value="testCase.TuiGuangTaskTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuiGuangTaskTest.test02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoZln" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase" />
+      <option name="MAIN_CLASS_NAME" value="testCase.TuiGuangTaskTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.CaseDemo1" />
+      <item itemvalue="TestNG.CaseDemo1.GetMessag" />
+      <item itemvalue="TestNG.TuiGuangTaskTest.test02" />
+      <item itemvalue="TestNG.TuiGuangTaskTest" />
+      <item itemvalue="TestNG.CaseDemo2$GlmapperGeneric.specifyType" />
+      <item itemvalue="Application.TDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TDemo" />
+        <item itemvalue="TestNG.CaseDemo2$GlmapperGeneric.specifyType" />
+        <item itemvalue="TestNG.TuiGuangTaskTest" />
+        <item itemvalue="TestNG.TuiGuangTaskTest.test02" />
+        <item itemvalue="TestNG.CaseDemo1.GetMessag" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="990e4242-41c1-4832-9952-584c438e303e" name="Default Changelist" comment="" />
+      <created>1599201582828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599201582828</updated>
+      <workItem from="1599201584254" duration="5764000" />
+      <workItem from="1599459588975" duration="3897000" />
+      <workItem from="1599552159671" duration="32850000" />
+      <workItem from="1599731115034" duration="1237000" />
+      <workItem from="1600064264981" duration="4865000" />
+      <workItem from="1600073749051" duration="8669000" />
+      <workItem from="1600761996618" duration="2608000" />
+      <workItem from="1601436244312" duration="122000" />
+      <workItem from="1602208873337" duration="9154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1105" y="35" key="#CaseDemo1" timestamp="1599556470247">
+      <screen x="-1600" y="-71" width="1600" height="860" />
+    </state>
+    <state x="-1105" y="35" key="#CaseDemo1/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1599556470247" />
+    <state x="-1105" y="35" key="#CaseDemo2" timestamp="1599555997369">
+      <screen x="-1600" y="-71" width="1600" height="860" />
+    </state>
+    <state x="-1105" y="35" key="#CaseDemo2/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1599555997369" />
+    <state x="552" y="181" width="1232" height="677" key="#Project_Structure" timestamp="1599729283560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1140" y="79" key="#Project_Structure/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1599556500483" />
+    <state x="552" y="181" width="1232" height="677" key="#Project_Structure/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1599729283560" />
+    <state x="-1341" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599556685038">
+      <screen x="-1600" y="-71" width="1600" height="860" />
+    </state>
+    <state x="-1341" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1599556685038" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1599635220537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1599635220537" />
+    <state x="707" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602222680004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1602222680004" />
+    <state x="-1020" y="67" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1599556542651">
+      <screen x="-1600" y="-71" width="1600" height="860" />
+    </state>
+    <state x="-1020" y="67" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1599556542651" />
+    <state x="-1071" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599556171109">
+      <screen x="-1600" y="-71" width="1600" height="860" />
+    </state>
+    <state x="-1071" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1599556171109" />
+    <state x="-1084" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599554477807">
+      <screen x="-1600" y="-71" width="1600" height="860" />
+    </state>
+    <state x="-1084" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1599554477807" />
+    <state x="-1016" y="247" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1599554479432">
+      <screen x="-1600" y="-71" width="1600" height="860" />
+    </state>
+    <state x="-1016" y="247" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1599554479432" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1600763338463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1600763338463" />
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom" timestamp="1601025389572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1600076436969" />
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1601025389572" />
+    <state width="1877" height="222" key="GridCell.Tab.0.center" timestamp="1601025389572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1600076436968" />
+    <state width="1877" height="222" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1601025389572" />
+    <state width="1877" height="222" key="GridCell.Tab.0.left" timestamp="1601025389572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1600076436968" />
+    <state width="1877" height="222" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1601025389572" />
+    <state width="1877" height="222" key="GridCell.Tab.0.right" timestamp="1601025389572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1600076436968" />
+    <state width="1877" height="222" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1601025389572" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1600138778954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1214" y="-56" key="SettingsEditor/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1599556725854" />
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1600138778954" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1602208875847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1602208875847" />
+    <state x="-983" y="197" key="export.test.results" timestamp="1600075129684">
+      <screen x="-1600" y="-71" width="1600" height="860" />
+    </state>
+    <state x="-983" y="197" key="export.test.results/0.0.1920.1040/-1600.-71.1600.860@-1600.-71.1600.860" timestamp="1600075129684" />
+    <state x="580" y="246" width="759" height="548" key="find.popup" timestamp="1600138782708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="246" width="759" height="548" key="find.popup/0.0.1920.1040/-1600.-71.1600.860@0.0.1920.1040" timestamp="1600138782708" />
+  </component>
+</project>

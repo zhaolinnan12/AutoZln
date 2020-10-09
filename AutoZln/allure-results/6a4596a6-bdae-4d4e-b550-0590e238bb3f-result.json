@@ -1,0 +1,51 @@
+{
+  "uuid": "6a4596a6-bdae-4d4e-b550-0590e238bb3f",
+  "historyId": "4ee02649c40efae0b6a4546f25fb11c7",
+  "fullName": "testCase.CaseDemo1.test1",
+  "labels": [
+    {
+      "name": "package",
+      "value": "testCase.CaseDemo1"
+    },
+    {
+      "name": "testClass",
+      "value": "testCase.CaseDemo1"
+    },
+    {
+      "name": "testMethod",
+      "value": "test1"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "AutoZln"
+    },
+    {
+      "name": "subSuite",
+      "value": "testCase.CaseDemo1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-4PK1MDG"
+    },
+    {
+      "name": "thread",
+      "value": "15132@DESKTOP-4PK1MDG.main(1)"
+    }
+  ],
+  "links": [],
+  "name": "test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "start": 1599557146080,
+  "stop": 1599557146082,
+  "parameters": []
+}

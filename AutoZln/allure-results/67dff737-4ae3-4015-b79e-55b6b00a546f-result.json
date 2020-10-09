@@ -1,0 +1,51 @@
+{
+  "uuid": "67dff737-4ae3-4015-b79e-55b6b00a546f",
+  "historyId": "ae9b32e0015a40db2a279422ea76990f",
+  "fullName": "utils.GetToken.Token",
+  "labels": [
+    {
+      "name": "package",
+      "value": "utils.GetToken"
+    },
+    {
+      "name": "testClass",
+      "value": "utils.GetToken"
+    },
+    {
+      "name": "testMethod",
+      "value": "Token"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "AutoZln"
+    },
+    {
+      "name": "subSuite",
+      "value": "utils.GetToken"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-4PK1MDG"
+    },
+    {
+      "name": "thread",
+      "value": "14232@DESKTOP-4PK1MDG.main(1)"
+    }
+  ],
+  "links": [],
+  "name": "Token",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "start": 1599463504362,
+  "stop": 1599463507550,
+  "parameters": []
+}

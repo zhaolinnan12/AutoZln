@@ -1,0 +1,51 @@
+{
+  "uuid": "ee17ad82-b496-4a80-b6d7-73963dfbfb7f",
+  "historyId": "53e9b2e300616964f7b61f0cd03a4e1a",
+  "fullName": "utils.GetToken.testPataParametersType1",
+  "labels": [
+    {
+      "name": "package",
+      "value": "utils.GetToken"
+    },
+    {
+      "name": "testClass",
+      "value": "utils.GetToken"
+    },
+    {
+      "name": "testMethod",
+      "value": "testPataParametersType1"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "AutoZln"
+    },
+    {
+      "name": "subSuite",
+      "value": "utils.GetToken"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-4PK1MDG"
+    },
+    {
+      "name": "thread",
+      "value": "1760@DESKTOP-4PK1MDG.main(1)"
+    }
+  ],
+  "links": [],
+  "name": "testPataParametersType1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "start": 1599552284183,
+  "stop": 1599552286269,
+  "parameters": []
+}

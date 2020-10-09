@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AnthonyAuto">
+
+    <listeners>
+
+        <listener class-name="utils.Reporting"/>
+        <listener class-name="utils.Listener"/>
+    </listeners>
+    <!--        <groups>
+          <incloud name="group1"></incloud>
+          <incloud name="group2"></incloud>
+        </groups>-->
+
+    <test name="API automation test">
+        <classes>
+
+            <class name="testCase.TuiGuangTaskTest"/>
+            <class name="utils.Listener"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

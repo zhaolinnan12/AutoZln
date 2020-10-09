@@ -1,0 +1,67 @@
+allure serve target/allure-results
+Features:标注主要功能模块
+Stories:标注Features功能模块下的分支功能
+Title:标注Stories下测试用例名称
+Step:标注测试用例的重要步骤
+Severity:标注测试用例的重要级别
+Description: 标注测试用例的描述
+Issue和TestCaseId据说是可以集成bug管理系统的，没用过，所以不太清楚
+
+
+1. Blocker级别——中断缺陷
+    客户端程序无响应，无法执行下一步操作。
+2. Critical级别――临界缺陷，包括：
+    功能点缺失，客户端爆页。
+3. Major级别——较严重缺陷，包括：
+    功能点没有满足需求。
+4. Normal级别――普通缺陷，包括：
+    1. 数值计算错误
+    2. JavaScript错误。
+5. Minor级别———次要缺陷，包括：
+    1. 界面错误与UI需求不符。
+    2. 打印内容、格式错误
+    3. 程序不健壮，操作未给出明确提示。
+6. Trivial级别——轻微缺陷，包括：
+    1. 辅助说明描述不清楚
+    2. 显示格式不规范，数字，日期等格式。
+    3. 长时间操作未给用户进度提示
+    4. 提示窗口文字未采用行业术语
+    5. 可输入区域和只读区域没有明显的区分标志
+    6. 必输项无提示，或者提示不规范。
+7. Enhancement级别——测试建议、其他（非缺陷）
+   1. 以客户角度的易用性测试建议。
+   2. 通过测试挖掘出来的潜在需求。
+
+
+     <!-- mvn test生成xml txt测试报告（命令行不带surefire-report:report时） -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.20</version>
+                <configuration>
+                    <!-- 忽略单元测试中的错误继续构建工程 -->
+                    <testFailureIgnore>true</testFailureIgnore>
+                    <!--是否跳过测试工作 -->
+                    <skipTests>false</skipTests>
+                    <suiteXmlFiles>${basedir}/target/test-classes/testng.xml</suiteXmlFiles>
+                    <argLine>
+                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar"
+                    </argLine>
+                    <systemProperties>
+                        <!-- 生成报告的位置配置成target/allureResults文件目录可以更改 -->
+                        <property>
+                            <name>allure.results.directory</name>
+                            <value>${project.build.directory}/allure-results</value>
+                        </property>
+                    </systemProperties>
+                </configuration>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.aspectj</groupId>
+                        <artifactId>aspectjweaver</artifactId>
+                        <version>1.8.10</version>
+                    </dependency>
+                </dependencies>
+            </plugin>
+
+

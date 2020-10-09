@@ -1,0 +1,29 @@
+{
+  "uuid": "878ebc0c-2ec2-47f4-bbb7-c1e72f542f74",
+  "name": "AutoZln",
+  "start": 1599622204156,
+  "stop": 1599622208089,
+  "children": [
+    "f8d368a5-c5d4-4437-aa77-21807b7a9baa"
+  ],
+  "befores": [
+    {
+      "name": "setup",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "start": 1599622204174,
+      "stop": 1599622204718
+    }
+  ],
+  "afters": [
+    {
+      "name": "afterTest",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "start": 1599622208088,
+      "stop": 1599622208088
+    }
+  ]
+}

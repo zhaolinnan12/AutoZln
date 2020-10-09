@@ -1,0 +1,51 @@
+{
+  "uuid": "3f713cd6-c07f-40f7-9ecf-44f63d059c36",
+  "historyId": "7aedb3cec5af65c561c00f0f916dcf69",
+  "fullName": "common.RequestSpecBuilderTest.test1",
+  "labels": [
+    {
+      "name": "package",
+      "value": "common.RequestSpecBuilderTest"
+    },
+    {
+      "name": "testClass",
+      "value": "common.RequestSpecBuilderTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "test1"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "AutoZln"
+    },
+    {
+      "name": "subSuite",
+      "value": "common.RequestSpecBuilderTest"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-4PK1MDG"
+    },
+    {
+      "name": "thread",
+      "value": "11740@DESKTOP-4PK1MDG.main(1)"
+    }
+  ],
+  "links": [],
+  "name": "test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "start": 1599552980133,
+  "stop": 1599552981634,
+  "parameters": []
+}
